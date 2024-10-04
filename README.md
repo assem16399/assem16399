@@ -55,6 +55,10 @@ Currently, I am deep-diving more into iOS Native development applying best pract
   <a> 
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
+  &emsp;
+  <a> 
+    <img alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  </a>
  
 </p>
 
@@ -63,7 +67,7 @@ Currently, I am deep-diving more into iOS Native development applying best pract
 - **Frameworks/Platforms**: Flutter, iOS Native, SwiftUI, UIKit, SpriteKit, Firebase, FCM, CloudKit, isolates, Flutter Navigation 2.0.
 - **Database Technologies**: SQLite, Hive, MySQL
 - **Principles**: Desing Patterns, Architecture Patterns, Clean Code, Clean Architecture, SOLID, Dependency Injection, TDD, Unit Testing, Multi-threading, State-management (BLoC & Provider & Riverpod), Method Channels
-- **Other**: Git
+- **Other**: Agile methodologies, Jira, Git
 
 
 ## Connect with me:
@@ -73,6 +77,9 @@ Currently, I am deep-diving more into iOS Native development applying best pract
       alt="Aasem Hany" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/AasemHany" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Aasem Hany" height="30" width="40" /></a>
+  <a href="mailto:aasem.hany@gmail.com" target="blank"><img align="center"
+      src="https://www.svgrepo.com/show/452213/gmail.svg"
       alt="Aasem Hany" height="30" width="40" /></a>
 </p>
 
