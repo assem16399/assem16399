@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-Hi, I'm Aasem Hany, a **Mobile Engineer** at Crystal Mind with extensive experience in mobile development. Specializing in Flutter and native iOS development.
+Hi, I'm Aasem Hany, a **Mobile Engineer** with extensive experience in mobile development. Specializing in Flutter and native iOS development.
 Currently, I am deep-diving more into iOS Native development applying best practices, and trying to make robust codebases.
 
 ## My tech stack
